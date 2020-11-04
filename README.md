@@ -2,9 +2,9 @@
 CCL2020 “古联杯”古籍文献命名实体识别评测
 
 ## 运行环境：
-python:3.7
-tensorflow-gpu:1.15.0
-numpy:1.16.5
+1. python:3.7
+2. tensorflow-gpu:1.15.0
+3. numpy:1.16.5
 
 ## 运行步骤：
 1. 下载预训练模型chinese_roberta_wwm_ext_L-12_H-768_A-12，link:https://github.com/ymcui/Chinese-BERT-wwm
