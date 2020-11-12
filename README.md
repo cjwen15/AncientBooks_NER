@@ -2,9 +2,9 @@
 CCL2020 “古联杯”古籍文献命名实体识别评测
 
 ## 运行环境：
-`  python:3.7
-`  tensorflow-gpu:1.15.0
-`  numpy:1.16.5
+1. python:3.7
+2. tensorflow-gpu:1.15.0
+3. numpy:1.16.5
 
 ## 运行步骤：
 1. 下载预训练模型chinese_roberta_wwm_ext_L-12_H-768_A-12，link:https://github.com/ymcui/Chinese-BERT-wwm
@@ -18,8 +18,8 @@ CCL2020 “古联杯”古籍文献命名实体识别评测
 8. 结束。
 
 ## 补充：
-`  比赛网址：http://match.ancientbooks.cn
-`  后续对步骤6的缺陷作出了改进，并未补充到项目中，针对bert_bilstm_crf/bert_lstm_ner.py进行了修改，可参考https://github.com/FuYanzhe2/Name-Entity-Recognition/issues/15
-`  这里仅上传了一部分训练数据，剩余的后续进行补充。
-`  本项目的方法较为简单，可作为一个baseline。
-`  欢迎交流，学习！
+1. 比赛网址：http://match.ancientbooks.cn
+2. 后续对步骤6的缺陷作出了改进，并未补充到项目中，针对bert_bilstm_crf/bert_lstm_ner.py进行了修改，可参考https://github.com/FuYanzhe2/Name-Entity-Recognition/issues/15
+3. 这里仅上传了一部分训练数据，剩余的后续进行补充。
+4. 本项目的方法较为简单，可作为一个baseline。
+5. 欢迎交流，学习！
