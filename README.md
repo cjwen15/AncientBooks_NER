@@ -20,6 +20,5 @@ CCL2020 “古联杯”古籍文献命名实体识别评测
 ## 补充：
 1. 比赛网址：http://match.ancientbooks.cn
 2. 后续对步骤6的缺陷作出了改进，并未补充到项目中，针对bert_bilstm_crf/bert_lstm_ner.py进行了修改，可参考https://github.com/FuYanzhe2/Name-Entity-Recognition/issues/15
-3. 这里仅上传了一部分训练数据，剩余的后续进行补充。
-4. 本项目的方法较为简单，可作为一个baseline。
-5. 欢迎交流，学习！
+3. 本项目的方法较为简单，可作为一个baseline。
+4. 欢迎交流，学习！
